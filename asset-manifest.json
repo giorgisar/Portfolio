@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.10fca5f3.css",
-    "main.js": "/Portfolio/static/js/main.820a2f05.js",
-    "static/media/realestate.jpg": "/Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.css": "/Portfolio/static/css/main.e40e4f84.css",
+    "main.js": "/Portfolio/static/js/main.50e3cf53.js",
+    "static/media/weekaway.png": "/Portfolio/static/media/weekaway.13e61309c08e2e525c1e.png",
+    "static/media/pig.png": "/Portfolio/static/media/pig.bf86236bba745c095721.png",
+    "static/media/bankist.png": "/Portfolio/static/media/bankist.b9aadeb6177578b1eb07.png",
+    "static/media/bankist1.png": "/Portfolio/static/media/bankist1.67ba25fe6dd568ebf276.png",
+    "static/media/finance.png": "/Portfolio/static/media/finance.91354f02cc9e123e87ac.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -11,11 +14,11 @@
     "static/media/ss.jpg": "/Portfolio/static/media/ss.8dd458b46b24772b6606.jpg",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
-    "main.10fca5f3.css.map": "/Portfolio/static/css/main.10fca5f3.css.map",
-    "main.820a2f05.js.map": "/Portfolio/static/js/main.820a2f05.js.map"
+    "main.e40e4f84.css.map": "/Portfolio/static/css/main.e40e4f84.css.map",
+    "main.50e3cf53.js.map": "/Portfolio/static/js/main.50e3cf53.js.map"
   },
   "entrypoints": [
-    "static/css/main.10fca5f3.css",
-    "static/js/main.820a2f05.js"
+    "static/css/main.e40e4f84.css",
+    "static/js/main.50e3cf53.js"
   ]
 }
