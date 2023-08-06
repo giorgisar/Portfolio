@@ -4,6 +4,7 @@ import finance from "../assets/finance.png";
 import weekaway from "../assets/weekaway.png";
 import pig from "../assets/pig.png";
 import bankist1 from "../assets/bankist1.png";
+import Gym from "../assets/gym.png";
 
 const Work = () => {
   return (
@@ -19,6 +20,39 @@ const Work = () => {
         {/* Container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${Gym})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover */}
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <span className=" text-2xl font-bold text-white tracking-wider">
+                Typescript Application
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://gym-awj.pages.dev/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:scale-110 duration-500">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/giorgisar/Gym/tree/master"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:scale-110 duration-500">
+                    {" "}
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+
           <div
             style={{ backgroundImage: `url(${bankist})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
