@@ -31,7 +31,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://gym-awj.pages.dev/"
+                  href="https://c0e62d7b.gym-awj.pages.dev/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
