@@ -5,6 +5,7 @@ import CSS from "../assets/ico.png";
 import Javascript from "../assets/javascript.png";
 import react from "../assets/react.png";
 import Tailwind from "../assets/tailwind.png";
+import Typescript from "../assets/typescript.png";
 
 const Skills = () => {
   return (
@@ -23,20 +24,28 @@ const Skills = () => {
             <p className="my-4">HTML</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={CSS} alt="HTML icon" />
+            <img className="w-20 mx-auto" src={CSS} alt="CSS icon" />
             <p className="my-4">CSS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Javascript} alt="HTML icon" />
+            <img
+              className="w-20 mx-auto"
+              src={Javascript}
+              alt="Javascript icon"
+            />
             <p className="my-4">Javascript</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={react} alt="HTML icon" />
+            <img className="w-20 mx-auto" src={react} alt="React.js icon" />
             <p className="my-4">React</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={Tailwind} alt="HTML icon" />
+            <img className="w-20 mx-auto" src={Tailwind} alt="Tailwind icon" />
             <p className="my-4">Tailwind</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Typescript} alt="HTML icon" />
+            <p className="my-4">Typescript</p>
           </div>
         </div>
       </div>
